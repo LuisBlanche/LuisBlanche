@@ -14,8 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisblanche&show_icons=true" alt="luisblanche" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/luis blanche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luis blanche" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/luis blanche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="luis blanche" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/luisblanche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luis blanche" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/9892619/luis-blanche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="luis blanche" height="30" width="30" /></a>
 <a href="https://kaggle.com/luisblanche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="luisblanche" height="30" width="30" /></a>
-<a href="https://dribbble.com/luis blanche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="luis blanche" height="30" width="30" /></a>
 </p>
