@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Blanche</h1>
-<h3 align="center">a Data Scientist / Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist / Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on [StreamBikes](https://github.com/LuisBlanche/StreamBikes)
 
