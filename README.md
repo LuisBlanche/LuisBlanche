@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Tensorflow and online machine learning**
 
-- 💬 Ask me about **python, machine learning, especially geodata and Natural Language Processing**
+- 💬 Ask me about **python, machine learning, especially geodata, Natural Language Processing or Time Series**
 
 - 📫 How to reach me **luis.a.blanche@gmail.com**
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
