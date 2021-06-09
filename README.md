@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StreamBikes](https://github.com/LuisBlanche/StreamBikes)
 
-- 🌱 I’m currently learning **more about Tensorflow and online machine learning**
+- 🌱 I’m currently learning **more about Aiflow and Kubernetes**
 
 - 💬 Ask me about **python, machine learning, especially geodata, Natural Language Processing or Time Series**
 
