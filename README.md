@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Blanche</h1>
-<h3 align="center">Data Scientist / Machine Learning Engineer</h3>
+<h3 align="center">Data Science and Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on [codecarbon](https://github.com/mlco2/codecarbon) ! 
 
