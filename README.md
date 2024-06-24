@@ -8,6 +8,8 @@
 - 💬 Ask me about **python, machine learning, especially geodata, Natural Language Processing or Time Series**
 
 - 📫 How to reach me **luis.a.blanche@gmail.com**
+
+- Visit my [portfolio page](https://luisblanche.github.io/portfolio/)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
 I am available for contract/consulting work 
